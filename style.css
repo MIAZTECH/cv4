@@ -1,0 +1,93 @@
+body{
+    box-sizing: border-box;
+    background-image: url(flex.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    
+
+    
+}
+
+.west{
+    width: 350px;
+    height: 100vh;
+    padding: 40px;
+    margin-top: 90px;
+    margin-left: 180px;
+    margin: 0 auto;
+    background: grey;
+
+    
+}
+
+
+h1{
+    color: gold;
+    font-size: auto;
+    font-weight: bold;
+    font-style: italic;
+
+}
+form{
+    width: 300px;
+    text-align: center;
+    margin-top: -10px;
+    
+}
+
+
+input{
+    width: 240px;
+    background: transparent;
+    font-size: 18px;
+    border: none;
+    color: white;
+    padding: 10px 0;
+    outline: none;
+    border-bottom: 2px solid white;
+    text-align: center;
+}
+::placeholder{
+    text-align: center;
+    color: whitesmoke;
+    
+    
+}
+
+.btn{
+    margin-top: 40px;
+    border: none;
+    border-radius: 25px;
+    width: 190px;
+    font-size: 20px;
+    line-height: 25px;
+    cursor: pointer;
+    padding: 10px;
+    transition: 0.4s;
+
+
+}
+    
+button:hover{
+    background: gold;
+    color: tomato;
+
+}
+.Login{
+    color: white ;
+    text-align: center;
+    font-size: auto;
+    font-weight: 10px;
+}
+a{
+    color: goldenrod;
+    font-size: 15px;
+}
+
+
+
+
+
+
